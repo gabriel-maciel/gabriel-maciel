@@ -11,16 +11,13 @@ I enjoy building solid, maintainable systems, automating boring stuff, and shipp
 - Backend: **Java (8–17), Spring Boot, JPA/Hibernate, REST APIs**
 - DB: **Oracle / PostgreSQL**
 - Frontend: **Angular, TypeScript, RxJS** (Material / PrimeNG)
-- Tooling: **Docker, Linux, bash**, CI/CD (GitLab / GitHub Actions)
+- Tooling: **Docker, Linux, bash, Postman**, CI/CD (GitLab / GitHub Actions)
 
 ### Projects / ideas I’m working on
 - **Notion → SQL ETL** for syncing structured data into a DB (nice for Metabase dashboards)
 - **SaaS templates** with good defaults (docs, env config, CI, migrations)
 - Small **automation tools** that save time day-to-day
 
-### GitHub Stats ⭐
-[![gabriel-maciel github stats](https://github-readme-stats.vercel.app/api?username=gabriel-maciel&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-maciel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Let's connect
 - LinkedIn: https://linkedin.com/in/maciel-gabriel
