@@ -14,10 +14,9 @@ I enjoy building solid, maintainable systems, automating boring stuff, and shipp
 - Tooling: **Docker, Linux, bash, Postman**, CI/CD (GitLab / GitHub Actions)
 
 ### Projects / ideas I’m working on
-- **Notion → SQL ETL** for syncing structured data into a DB (nice for Metabase dashboards)
-- **SaaS templates** with good defaults (docs, env config, CI, migrations)
-- Small **automation tools** that save time day-to-day
-
+- **Telegram bots** to monitor cool stuff
+- **Ebook generation** from RSS news or IA generated content
+- **Notion → SQL ETL** for syncing fitness data into a DB
 
 ### Let's connect
 - LinkedIn: https://linkedin.com/in/maciel-gabriel
